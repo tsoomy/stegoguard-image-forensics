@@ -16,7 +16,8 @@ SUSPICIOUS_WORDS = [
     b"password",
     b"token",
     b"api_key"
-    b"confidential",
+    b"confidential"
+    b"private_data",
 ]
 
 
