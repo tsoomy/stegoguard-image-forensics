@@ -1,2 +1,9 @@
-Student: Choomi
+Student: Tsolmon Bayasgalan
 Project: StegoGuard Image Forensics
+
+Note to myself:
+StegoGuard checks: 
+-if image files have valid file signatures 
+-extra data exists after the real image  
+-suspicious keywords appear inside the file bytes? 
+
