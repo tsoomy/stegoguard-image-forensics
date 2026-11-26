@@ -1,4 +1,4 @@
-name: StegoGuard Image Forensics
+name: StegoGuard Image Forensics practice
 
 on:
   push:
